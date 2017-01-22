@@ -1,0 +1,34 @@
+table {
+  width: 75%
+}
+#photoImg {
+  float: center;
+}
+th {
+  text-align: center;
+}
+h1 {
+  text-align: left;
+  color: blue;
+  float: center;
+}
+h3 {
+  color: blue;
+  float: center;
+}
+
+h2 {
+  color: blueviol;
+}
+.teachLi{
+  color: #e016b1;
+}
+.GLi{
+  color: #e016b1;
+}
+p{
+  color: #0a1b9b;
+}
+li{
+  color: #0a1b9b;
+}
